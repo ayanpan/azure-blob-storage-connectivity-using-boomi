@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<EnumerationResults ServiceEndpoint="https://boomidemo.blob.core.windows.net/" ContainerName="invoice">
+    <Blobs>
+        <Blob>
+            <Name>invoice_001.csv</Name>
+            <Properties>
+                <Creation-Time>Tue, 31 May 2022 16:07:39 GMT</Creation-Time>
+                <Last-Modified>Tue, 31 May 2022 16:07:39 GMT</Last-Modified>
+                <Etag>0x8DA431FAFA70EEW</Etag>
+                <Content-Length>375</Content-Length>
+                <Content-Type>text/csv</Content-Type>
+                <Content-Encoding />
+                <Content-Language />
+                <Content-CRC64 />
+                <Content-MD5>NnFK55cG9omyvREGvtzAcg==</Content-MD5>
+                <Cache-Control />
+                <Content-Disposition />
+                <BlobType>BlockBlob</BlobType>
+                <AccessTier>Hot</AccessTier>
+                <AccessTierInferred>true</AccessTierInferred>
+                <LeaseStatus>unlocked</LeaseStatus>
+                <LeaseState>available</LeaseState>
+                <ServerEncrypted>true</ServerEncrypted>
+            </Properties>
+            <OrMetadata />
+        </Blob>
+    </Blobs>
+    <NextMarker />
+</EnumerationResults>
